@@ -4,3 +4,7 @@
 
 /.vs
 /obj
+/PokerHandEvaluator/bin/Debug/net6.0
+/PokerHandEvaluator/obj
+/PokerHandEvaluator.Tests/obj
+/PokerHandEvaluator.Tests/bin/Debug/net6.0
